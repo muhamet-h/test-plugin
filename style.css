@@ -9,3 +9,8 @@ body {
 h1 {
   color: #0073aa;
 }
+
+a {
+  color: #0073aa;
+  text-decoration: none;
+}
